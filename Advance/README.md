@@ -1,4 +1,5 @@
 [:arrow_left: Back to Table of Contents](/../../)
+
 ---
 
 # Gameboy Advance
