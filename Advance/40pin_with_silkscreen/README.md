@@ -1,4 +1,8 @@
-[:arrow_left: Back to Table of Contents](/README.md)
+[:arrow_left: Back to Table of Contents](/../../)
+---
+[:arrow_left: Back GBA main page](/Advance/)
+
+---
 
 # 40pin Board with full silkscreen
 ## Board features
@@ -16,4 +20,8 @@ More images can be found in the images folder.
 
 ![](/Advance/40pin_with_silkscreen/Images/IMG_9727.jpg)
 
-[:arrow_left: Back to Table of Contents](/README.md)
+---
+
+[:arrow_left: Back to Table of Contents](/../../)
+---
+[:arrow_left: Back GBA main page](/Advance/)
