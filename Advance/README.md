@@ -1,4 +1,5 @@
-[:arrow_left: Back to Table of Contents](/README.md)
+[:arrow_left: Back to Table of Contents](/../../)
+---
 
 # Gameboy Advance
 ![](/Advance/Images/IMG_9702.JPG) 
@@ -27,4 +28,5 @@ Currently there are 4 different Board versions available:
 
 **For the board versions without full silkscreen there will be no BOM available!*
 
-[:arrow_left: Back to Table of Contents](/README.md)
+---
+[:arrow_left: Back to Table of Contents](/../../)
