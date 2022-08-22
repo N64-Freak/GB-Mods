@@ -1,4 +1,4 @@
-[:arrow_left: Back to Table of Contents](/README.md)
+[:arrow_left: Back to Table of Contents](/../../)
 
 ---
 
@@ -34,4 +34,4 @@ As i did a small mistake while ordering the boards some component values are mis
 But the more important component designators are all present. This will be fixed with the next board revision.
 
 ---
-[:arrow_left: Back to Table of Contents](/README.md)
+[:arrow_left: Back to Table of Contents](/../../)
