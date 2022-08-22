@@ -1,4 +1,4 @@
-[:arrow_left: Back to Table of Contents](/GB-Mods/)
+[:arrow_left: Back to Table of Contents](/../../)
 
 # Gameboy Pocket
 
