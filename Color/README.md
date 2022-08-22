@@ -1,5 +1,7 @@
 [:arrow_left: Back to Table of Contents](/../../)
 
+---
+
 # Gameboy Color
 
 ![](/Color/Images/IMG_9703.JPG) 
@@ -21,4 +23,5 @@ More images can be found in the images folder.
 
 ![](/Color/Images/Color_Boards.jpg) 
 
+---
 [:arrow_left: Back to Table of Contents](/../../)
