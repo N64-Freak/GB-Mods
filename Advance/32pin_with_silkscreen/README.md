@@ -1,6 +1,6 @@
 [:arrow_left: Back to Table of Contents](/README.md)
 ---
-[:arrow_left: Back GBA main page](/Advance/README.md)
+[:arrow_left: Back GBA main page](/Advance/)
 
 # 32pin Board with full silkscreen
 ## Board features
