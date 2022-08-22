@@ -1,4 +1,8 @@
-[:arrow_left: Back to Table of Contents](/README.md)
+[:arrow_left: Back to Table of Contents](/../../)
+---
+[:arrow_left: Back GBA main page](/Advance/)
+
+---
 
 # 40pin Board with some mods but without silkscreen
 ## Board features
@@ -54,4 +58,8 @@ As i currently have no assembled board of this version i had to borrow the image
 
 ![](/Advance/32pin_with_silkscreen/Images/IMG_9725.jpg)
 
-[:arrow_left: Back to Table of Contents](/README.md)
+---
+
+[:arrow_left: Back to Table of Contents](/../../)
+---
+[:arrow_left: Back GBA main page](/Advance/)
