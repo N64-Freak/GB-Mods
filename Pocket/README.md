@@ -1,5 +1,7 @@
 [:arrow_left: Back to Table of Contents](/../../)
 
+---
+
 # Gameboy Pocket
 
 ## Different board versions
@@ -21,4 +23,5 @@ More images can be found in the images folder.
 
 ![](/Pocket/Images/Pocket_Boards.jpg) 
 
+---
 [:arrow_left: Back to Table of Contents](/../../)
