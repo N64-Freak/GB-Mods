@@ -22,5 +22,6 @@ The BOM for this board will be available once the parts are confirmed to be corr
 More images can be found in the images folder.
 
 ![](/Light/Images/Light_Boards.jpg) 
+
 ---
 [:arrow_left: Back to Table of Contents](/../../)
