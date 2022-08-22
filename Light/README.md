@@ -1,4 +1,4 @@
-[:arrow_left: Back to Table of Contents](/README.md)
+[:arrow_left: Back to Table of Contents](/../../)
 
 ---
 # Gameboy Light
@@ -23,4 +23,4 @@ More images can be found in the images folder.
 
 ![](/Light/Images/Light_Boards.jpg) 
 ---
-[:arrow_left: Back to Table of Contents](/README.md)
+[:arrow_left: Back to Table of Contents](/../../)
