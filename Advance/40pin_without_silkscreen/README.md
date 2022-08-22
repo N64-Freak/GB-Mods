@@ -37,4 +37,4 @@ As i currently have no assembled board of this version i had to borrow the image
 
 [:arrow_left: Back to Table of Contents](/../../)
 ---
-[:arrow_left: Back GBA main page](/Advance/
+[:arrow_left: Back GBA main page](/Advance/)
