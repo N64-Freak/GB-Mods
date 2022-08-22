@@ -1,7 +1,9 @@
 [:arrow_left: Back to Table of Contents](/README.md)
+
 ---
 [:arrow_left: Back GBA main page](/Advance/)
 
+---
 # 32pin Board with full silkscreen
 ## Board features
 This board is based on the AGB-CPU-10 revision and features the full silkscreen.
@@ -25,4 +27,5 @@ In case your donor has the component with the extra 2 legs it would have 2 pins 
 
 ![](/Advance/32pin_with_silkscreen/Images/IMG_9725.jpg)
 
+---
 [:arrow_left: Back to Table of Contents](/README.md)
