@@ -26,10 +26,8 @@ In case your donor has the component with the extra 2 legs it would have 2 pins 
 
 ![](/Advance/32pin_with_silkscreen/Images/IMG_9725.jpg)
 
+---
+
 [:arrow_left: Back to Table of Contents](/../../)
 ---
-
 [:arrow_left: Back GBA main page](/Advance/)
-
----
-
