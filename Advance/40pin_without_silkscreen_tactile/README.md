@@ -21,7 +21,8 @@ For anyone who wants to torture himself the board is *close* to the 40pin board 
 The board does have a few mods added. Mainly this is the tactile buttons and the tantalum caps.
 
 The tactile buttons add a clicky feeling to the buttons there's just the problem that you still have the long button travel and the squishy feeling of the membrane.
-but there's a solution for it. XXX designed a 3D printable adapter that can be attached to the dpad and A/B buttons to omit the membrane and have a similar feeling to the tactile buttons of the GBA SP.
+But there's a solution for it. Larvesta10 has designed a 3D printable adapter that can be attached to the dpad and A/B buttons to omit the membrane and have a similar feeling to the tactile buttons of the GBA SP.
+You can download the files for the adapter on Thingiverse: https://www.thingiverse.com/thing:5013829
 
 The tantalum caps are pretty self explanatory. The old electrolytic capacitors have simply been replaced by tantalum caps for better performance.
 
@@ -32,15 +33,15 @@ Last but not least to help with the power distribution on the board i went for a
 
 The BOM for the added mod components is:
 
-| No. | Description | Manufacturer Partnumber | Mouser partnumber |  
-| --- | --- | --- | --- |  
-| 1 | Tactile button (small) | SKRMAAE010 |  688-SKRMAA |  
-| 2 | Tactile button (big) | SKRRAAE010 |  688-SKRRAA |  
-| 3 |  |   |  |  
-| 4 |  |   |  |  
-| 5 |  |   |  |  
-| 6 |  |   |  |  
-| ... | ... | ... | ... |  
+| No. | Description | Manufacturer Partnumber | Mouser partnumber | Quantity |  
+| --- | --- | --- | --- | --- |
+| 1 | Tactile button (small) | SKRMAAE010 |  688-SKRMAA | 2 |
+| 2 | Tactile button (big) | SKRRAAE010 |  688-SKRRAA | 6 |
+| 3 | 10uF 0805 | 0805YD106KAT2A | 581-0805YD106K | 8 |
+| 4 | 1uF 0603 | CC0603KRX5R8BB105 | 603-CC603KRX5R8BB105 | 10 | 
+| 5 | 0.1uF 0402 | C0402C104K4RACAUTO | 80-C0402C104K4RAUTO | 1 | 
+| 6 | 470uF 10V | TPSE477K010R0045V | 581-TPSE477K010R045V | 1 |
+| 7 | 330uF 6.3V | T495C337K006ATE200 | 80-T495C337K6ATE200 | 3 |
 
 Will be extended once the parts are verified!
 
