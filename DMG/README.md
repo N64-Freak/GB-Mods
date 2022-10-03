@@ -14,9 +14,11 @@ This board and the BOM are based around the DMG-CPU-06 revision of the DMG mothe
 
 ## BOM
 
-The BOM for this board will be available once the parts are confirmed to be correct. The BOM and the mentioned component values and part names are identical to the retail boards and can also be used to buy spare parts for your stock gameboy board.
+The BOM and the mentioned component values and part names are identical to the retail boards and can be used to buy spare parts for your stock gameboy board.
 
-*BOM will be available once parts are verified*
+The BOM can be found in the "BOM" folder or following the below link:
+
+[Gameboy DMG BOM](/DMG/BOM/BOM_DMG.xlsx)
 
 ## Example of an assembled board
 More images can be found in the images folder.
