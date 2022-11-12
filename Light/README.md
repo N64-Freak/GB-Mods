@@ -16,7 +16,7 @@ This board and the BOM are therefore based around the MGL-CPU-01 revision of the
 
 The BOM for this board will be available once the parts are confirmed to be correct. The BOM and the mentioned component values and part names are identical to the retail boards and can also be used to buy spare parts for your stock gameboy board.
 
-*BOM will be available once parts are verified*
+[Gameboy Light BOM](/Light/BOM/BOM_MGL.xlsx)
 
 ## Example of an assembled board
 More images can be found in the images folder.
