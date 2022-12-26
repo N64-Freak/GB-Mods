@@ -4,7 +4,7 @@
 
 # Gameboy Pocket-Color
 
-![](/Pocket-Color/Images/IMG_9703.JPG) 
+![](/Pocket-Color/Images/IMG_0426.JPG) 
 
 ## About this board
 The Gamboy Pocket-Color is a mod board which basically is a Gameboy color in the shell of a Gameboy Pocket.
@@ -26,7 +26,7 @@ The BOM can be found in the "BOM" folder or following the below link:
 ## Example of an assembled board
 More images can be found in the images folder.
 
-![](/Pocket-Color/Images/Color_Boards.jpg) 
+![](/Pocket-Color/Images/Pocket_Color_Boards.jpg) 
 
 ---
 [:arrow_left: Back to Table of Contents](/../../)
