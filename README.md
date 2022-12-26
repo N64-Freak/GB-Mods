@@ -32,11 +32,11 @@ And while i did all the work i could also choose the color! The below system is 
 
 Short answer: Yes!
 
-I do offer the unpopulated replacement motherboards for 15€ (+shipping) per board. The boards are a direct replacement for the original boards.
+I do offer the unpopulated replacement motherboards for 10€ (+shipping) per board. The boards are a direct replacement for the original boards.
 To assemble them you can transplant all components one by one to the new boards and you have a great looking motherboard.
 For some of the boards a BOM is available (or will be available!) to assemble them with brand new components if you like.
 Some components like the CPU, DCDC converter and power switch for example have to be taken over from a donor board.
-If you want more than one board i do offer a set of 5 boards for 50€ (+shipping). If you want a custom amount or even have a special request feel free to contact me.
+If you want more than one board i do offer a set of 5 boards for 40€ (+shipping). If you want a custom amount or even have a special request feel free to contact me.
 
 I sometimes have fully assembled motherboards available if you can't assemble one yourself.
 
