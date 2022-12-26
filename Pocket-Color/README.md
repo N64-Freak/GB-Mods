@@ -2,7 +2,7 @@
 
 ---
 
-# Gameboy Color
+# Gameboy Pocket-Color
 
 ![](/Pocket-Color/Images/IMG_9703.JPG) 
 
