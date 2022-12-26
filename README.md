@@ -15,6 +15,9 @@ I will extend the information posted in this repository over time. To seperate t
 - [Gameboy Color](/Color/README.md)
 - [Original Gameboy (DMG)](/DMG/README.md)
 
+Mod boards:
+- [Gameboy Pocket-Color](/Pocket-Color/README.md)
+
 ## What is it all about?
 
 When battery powered devices are stored with batteries still in them they will start leaking one day.
