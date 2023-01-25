@@ -32,7 +32,7 @@ And while i did all the work i could also choose the color! The below system is 
 
 Short answer: Yes!
 
-Single board: 10€ +shipping
+Single board: 10€ +shipping<br>
 5 boards: 40€ +shipping
 
 I do offer the unpopulated replacement motherboards as mentioned above. The boards are a direct replacement for the original boards.
