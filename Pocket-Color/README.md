@@ -28,5 +28,7 @@ More images can be found in the images folder.
 
 ![](/Pocket-Color/Images/Pocket_Color_Boards.jpg) 
 
+![](/Pocket-Color/Images/IMG_0714.jpg) 
+
 ---
 [:arrow_left: Back to Table of Contents](/../../)
