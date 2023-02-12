@@ -18,9 +18,9 @@ The BOM is available and is pretty much identical to the BOM for the Gameboy Col
 
 ## The Screen
 The pcb is designed so you can keeep using the original gameboy color screen but for the best result an IPS mod is prefered.
-The screen i am personally using is an unbranded Q5 ips mod.
-**Caution:** Do **NOT** use a laminated Q5 ips mod and also don't use a Q5 ips kit with the light up logo.
-The kits with the light up logo don't offer enough Y-position adjustment for the image!
+  The screen i am personally using is an unbranded Q5 ips mod.
+  **Caution:** Do **NOT** use a laminated Q5 ips mod and also don't use a Q5 ips kit with the light up logo.
+  The kits with the light up logo don't offer enough Y-position adjustment for the image!
 
 ## BOM
 The BOM and the mentioned component values and part names are identical to the retail boards and can be used to buy spare parts for your stock gameboy board.
