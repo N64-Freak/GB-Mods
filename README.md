@@ -41,7 +41,40 @@ For some of the boards a BOM is available (or will be available!) to assemble th
 Some components like the CPU, DCDC converter and power switch for example have to be taken over from a donor board.
 If you want a custom amount or even have a special request feel free to contact me.
 
-I sometimes have fully assembled motherboards available if you can't assemble one yourself.
+I do also offer assembled pcbs for 125€ (+shipping) on request and do sometims have assembled boards ready to ship.
+If i do have assembled boards directly available they are listed in the table below.
 
 If you want to contact me feel free to drop me a mail: N64freak@gmx.de
 
+Available blank replacement boards:
+
+| Board version | Color |
+| --- | --- |
+| DMG | Black, Purple, Green |
+| MGB | Black |
+| MGL | Black |
+| CGB | Black, Purple, Blue, Red, Green |
+| AGB (32pin) | Black, Blue |
+| AGB (40pin) | Black |
+
+Available blank mod boards:
+
+| Board version | Color |
+| --- | --- |
+| MGBC | Black, Red, Green, Blue, White, Yellow, Purple |
+
+Available blank proto/test boards (Will not be reordered):
+
+| Board version | Color |
+| --- | --- |
+| AGB (40pin) No Silkscreen | Black |
+| AGB (40pin) No Silkscreen, tactile buttons, tantalum caps and power cleaner mod | Black |
+
+Currently available assembled boards:
+
+| Board version | Color |
+| --- | --- |
+| MGBC  | 1x Black, 1x Red, 1x Green |
+| DMG | 1x Black |
+| MGL | 1x Black |
+| MGB | 1x Black |
