@@ -63,7 +63,7 @@ Available blank mod boards:
 | --- | --- |
 | MGBC | Black, Red, Green, Blue, White, Yellow, Purple |
 
-Available blank proto/test boards (Will not be reordered):
+Available blank proto/test boards:
 
 | Board version | Color |
 | --- | --- |
