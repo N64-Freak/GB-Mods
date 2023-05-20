@@ -32,6 +32,7 @@ This way you can hide the wires behind the screen and they will not be visible i
 ![](/Pocket-Color/Images/IMG_1327.jpg) 
 
 ### Navigation wheel
+**The navigation wheel is currently available only on the following color pcbs: blue, white, yellow and black**
 The newer revision of the PCB does include a navigation wheel that can be used to for exmaple control the IPS mod.
 Personally i wired it to the brightness and color palette selection to replace the touch buttons.
 Just removing the touch buttons ans instead soldering to the provided pads of the navigation wheel should work just fine.
