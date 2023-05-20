@@ -58,9 +58,9 @@ The BOM can be found in the "BOM" folder or following the below link:
 ## Example of an assembled board
 More images can be found in the images folder.
 
-![](/Pocket-Color/Images/Pocket_Color_Boards.jpg) 
+![](/Pocket-Color/Images/IMG_1306.jpg) 
 
-![](/Pocket-Color/Images/IMG_0714.jpg) 
+![](/Pocket-Color/Images/IMG_1305.jpg) 
 
 ---
 [:arrow_left: Back to Table of Contents](/../../)
