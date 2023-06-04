@@ -17,6 +17,7 @@ I will extend the information posted in this repository over time. To seperate t
 
 Mod boards:
 - [Gameboy Pocket-Color](/Pocket-Color/README.md)
+- [Gameboy Light-Pocket](/Light-Pocket/README.md)
 
 ## What is it all about?
 
@@ -62,6 +63,7 @@ Available blank mod boards:
 | Board version | Color |
 | --- | --- |
 | MGBC | Black, Red, Green, Blue, White, Yellow, Purple |
+| MGLB | Black |
 
 Available blank proto/test boards:
 
@@ -77,4 +79,5 @@ Currently available assembled boards:
 | MGBC  | 1x Black, 1x Red, 1x Green |
 | DMG | 1x Black |
 | MGL | 1x Black |
+| MGLB | 1x Black |
 | MGB | 1x Black |
