@@ -17,6 +17,7 @@ I will extend the information posted in this repository over time. To seperate t
 
 Mod boards:
 - [Gameboy Pocket-Color](/Pocket-Color/README.md)
+- [Gameboy Light-Color](/Light-Color/README.md)
 - [Gameboy Light-Pocket](/Light-Pocket/README.md)
 
 ## What is it all about?
@@ -51,33 +52,35 @@ Available blank replacement boards:
 
 | Board version | Color |
 | --- | --- |
-| DMG | Black, Purple, Green |
-| MGB | Black |
-| MGL | Black |
-| CGB | Black, Purple, Blue, Red, Green |
-| AGB (32pin) | Black, Blue |
-| AGB (40pin) | Black |
+| DMG (Original Gameboy) | Black, Purple, Green |
+| MGB (Gameboy Pocket) | Black |
+| MGL (Gameboy Light) | Black |
+| CGB (Gameboy Color) | Black, Purple, Blue, Red, Green |
+| AGB (32pin) (Gameboy Advance) | Black, Blue |
+| AGB (40pin) (Gameboy Advance) | Black |
 
 Available blank mod boards:
 
 | Board version | Color |
 | --- | --- |
-| MGBC | Black, Red, Green, Blue, White, Yellow, Purple |
-| MGLB | Black |
+| MGBC (Gameboy Pocket-Color) | Black, Red, Green, Blue, White, Yellow, Purple |
+| MGLB (Gameboy Light-Pocket) | Black |
+| MGLC (Gameboy Light-Color) | Black |
 
 Available blank proto/test boards:
 
 | Board version | Color |
 | --- | --- |
-| AGB (40pin) No Silkscreen | Black |
-| AGB (40pin) No Silkscreen, tactile buttons, tantalum caps and power cleaner mod | Black |
+| AGB (40pin) (Gameboy Advance) No Silkscreen | Black |
+| AGB (40pin) (Gameboy Advance) No Silkscreen, tactile buttons, tantalum caps and power cleaner mod | Black |
 
 Currently available assembled boards:
 
 | Board version | Color |
 | --- | --- |
-| MGBC  | 1x Black, 1x Red, 1x Green |
-| DMG | 1x Black |
-| MGL | 1x Black |
-| MGLB | 1x Black |
-| MGB | 1x Black |
+| MGBC (Gameboy Pocket-Color) | 1x Black, 1x Red, 1x Green |
+| DMG (Original Gameboy) | 1x Black |
+| MGL (Gameboy Light) | 1x Black |
+| MGLB (Gameboy Light-Pocket) | 1x Black |
+| MGLC (Gameboy Light-Color) | 1x Black |
+| MGB (Gameboy Pocket) | 1x Black |
